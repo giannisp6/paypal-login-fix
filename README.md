@@ -2,6 +2,10 @@
 
 If you're encountering the **"We’re having trouble making sure it’s you"** error when trying to log in to PayPal, the issue may be related to browser settings such as ad blockers or DNS protection. This guide will walk you through the steps to resolve the issue.
 
+### Error Link:
+If you've encountered the error, you may have been redirected to this link:  
+https://www.paypal.com/authflow/verification-failed/
+
 ## Solution 1: Disable Ad Blocker on PayPal
 
 Sometimes, PayPal's security checks can be disrupted by ad blockers. Follow these steps to disable your ad blocker for PayPal:
@@ -23,7 +27,6 @@ If you have DNS protection or secure DNS services (e.g., Cloudflare, OpenDNS, et
 
 ## Additional Tips:
 - Make sure your browser is up-to-date.
-- Try using a different browser or switching to incognito/private mode.
 - Clear your browser’s cache and cookies, then attempt to log in.
 
 If the issue persists, you can visit the [PayPal Help Center](https://www.paypal.com/help) for further assistance.
